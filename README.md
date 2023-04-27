@@ -1,5 +1,5 @@
 
-Hola!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Roberto Shiao
+Hola!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
 # 💫 Sobre mi:
@@ -16,7 +16,9 @@ Hola!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-  
+![JUPYTER](https://camo.githubusercontent.com/b16ec062dca2cdf3920f54990854b9090f67d923f237500183fb757ddc00a336/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a75707974657226636f6c6f723d463337363236266c6f676f3d4a757079746572266c6f676f436f6c6f723d464646464646266c6162656c3d)
+
+
 # ⚙️ Herramientas:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
