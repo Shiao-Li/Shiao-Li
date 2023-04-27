@@ -5,7 +5,7 @@ Hola!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 # 💫 Sobre mi:
 🏫 Estudiante de Tecnología Superior en Desarrollo de Software en la Escuela Politécnica Nacional <br>
 🗂️ Visita mi Portafolio de servicios: [![portfolio](https://img.shields.io/badge/%F0%9F%93%9A-Mi%20portafolio-brightgreen)](https://courageous-dieffenbachia-76ef11.netlify.app/) <br>
-📄 Visita mi CV: [![cv](https://img.shields.io/badge/%F0%9F%93%84-Mi%20portafolio-brightgreen)](https://mnf.red/84cb9ade-e5b3-4a7b-a555-4e9273af7d67)
+📄 Visita mi CV: [![cv](https://img.shields.io/badge/%F0%9F%93%84-Mi%20CV-brightgreen)](https://mnf.red/84cb9ade-e5b3-4a7b-a555-4e9273af7d67)
 
 
 # 💻 Tecnologías:
